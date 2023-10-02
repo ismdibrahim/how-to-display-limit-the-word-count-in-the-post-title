@@ -1,3 +1,4 @@
+<?php
 
 function max_title_length( $title ) {
 
